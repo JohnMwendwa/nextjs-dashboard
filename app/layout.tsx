@@ -5,7 +5,10 @@ import {inter} from "@/app/ui/fonts"
 
 
 export const metadata:Metadata={
-title:"Acme Dashboard",
+title:{
+  template:"%s | Acme Dashboard",
+  default:"Acme Dashboard"
+},
 description:"An admin dashboard built using Next.js framework",
 metadataBase:new URL("https://dashboard-v1-ashy.vercel.app/")
 };
