@@ -56,6 +56,15 @@ To start your local server, run the following command:
 npm run dev
 ```
 
+### 🔑 Default Account Credentials
+
+Once you've seeded your database with the initial data, the default login creadentials are:
+
+```js
+Email: user@nextmail.com
+Password: 123456
+```
+
 ### 💡 Pro Tip
 
 "Great dashboards are built with great attention to detail. Keep iterating and improving!"
