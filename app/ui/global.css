@@ -8,10 +8,9 @@ input[type='number'] {
 
 input[type='number']::-webkit-inner-spin-button {
   -webkit-appearance: none;
-  margin: 0;
+  margin: auto;
 }
-
 input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
-  margin: 0;
+  margin: auto;
 }
