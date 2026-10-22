@@ -5,7 +5,8 @@
     "dev": "next dev",
     "seed": "node -r dotenv/config ./scripts/seed.js",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "node --test"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
